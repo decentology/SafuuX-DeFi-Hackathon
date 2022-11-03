@@ -55,6 +55,6 @@ Behave Professionally. Remember that harassment, racism, sexism, or exclusionary
 
 Be Thoughtful: In the spirit of open source and inclusiveness, there may be minors participating in the hackathon. Keep this in mind when communicating or speaking in public forums.
 
-Be Open: We welcome attendees from all backgrounds. This event is about increasing awareness for Solana and the greater crypto space. Please be welcoming to all who register for the event and help us create a friendly environment for all.
+Be Open: We welcome attendees from all backgrounds. This event is about increasing awareness for HyperverseDAO and the greater crypto space. Please be welcoming to all who register for the event and help us create a friendly environment for all.
 
 Believe in Yourself: Crypto opens the door for anyone to permissionlessly build applications that will change how we all interact with finance, gaming, and the Internet as a whole. Dream big and use this powerful technology to create a better world.
