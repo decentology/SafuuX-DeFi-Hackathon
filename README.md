@@ -9,7 +9,8 @@
 
 - Hackathon is completely online and anyone can participate globally
 - Registration form is [here](https://forms.gle/NceMHtJgexySpsA59)
-- Submission form is [here](https://docs.google.com/forms/d/e/1FAIpQLSc6OvyxbtZO82z0fs-zh2i1yUz_W_s79eT2aey2awOBFqC_Uw/viewform?usp=sharing)
+- First stage submission form is [here](https://docs.google.com/forms/d/1UP01XVjUcQRc2mtRxQkxKDoziD7Gcu07agf0vxnyIMo/edit)
+- Final Submission form is [here](https://docs.google.com/forms/d/e/1FAIpQLSc6OvyxbtZO82z0fs-zh2i1yUz_W_s79eT2aey2awOBFqC_Uw/viewform?usp=sharing)
 - For more details, go to [hyperverse.dev/defihackathon](https://www.hyperverse.dev/defihackathon)
 
 ### Start hacking
