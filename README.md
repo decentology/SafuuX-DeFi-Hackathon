@@ -4,7 +4,7 @@
 ---
 ### Important information
 - Hackathon dates: Oct 26, 2022 to Nov 30, 2022
-- First stage of submission (video walk-thru of dApp WIP / presentation of idea): Dec 5, 2022, 11.59pm PT
+- First stage of submission (video walk-thru of dApp WIP / presentation of idea): Dec 12, 2022, 11.59pm PT
 - Final submission deadline: Dec 19, 2022, 11.59pm PT
 
 - Hackathon is completely online and anyone can participate globally
